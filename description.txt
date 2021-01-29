@@ -1,0 +1,11 @@
+Azercadmium Mod Music is a mod that gives music to the bosses. You might want this if you have Azercadmium.
+Currently themes for:
+~Dirtball
+~Matrix Scavenger
+~Empress Slime
+
+Version History:
+V0.1.1"
+~Linked Github (can't be done before the release).
+V0.1:
+~Added themes for Dirtball, Matrix Scavenger, and Empress Slime.

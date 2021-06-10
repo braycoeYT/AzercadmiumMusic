@@ -1,11 +1,15 @@
 Azercadmium Mod Music is a mod that gives music to the bosses. You might want this if you have Azercadmium.
 Currently themes for:
 ~Dirtball
+~Ember Glades
 ~Titan Tankorb
 ~Matrix Scavenger
 ~Empress Slime
 
 Version History:
+V0.3.0.2:
+~Added theme for the Ember Glades.
+~Updated Logo.
 V0.3.0.1:
 ~Added theme for Titan Tankorb.
 V0.1.1:

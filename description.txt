@@ -7,6 +7,9 @@ Currently themes for:
 ~Empress Slime
 
 Version History:
+V0.3.1.3:
+~Added theme for the Eldritch Jellyfish.
+~Removed theme for Empress Slime.
 V0.3.0.2:
 ~Added theme for the Ember Glades.
 ~Updated Logo.
